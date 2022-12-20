@@ -1,0 +1,7 @@
+{
+  "name": "ions-tabs-sidemenu-self-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
